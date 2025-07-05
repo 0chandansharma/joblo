@@ -1,0 +1,72 @@
+John Doe
+Email: john.doe@email.com
+Phone: +91 9876543210
+Location: Bangalore, India
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 5 years of experience in developing scalable web applications using Python, Django, and React. Strong background in cloud technologies (AWS) and database management. Proven track record of delivering high-quality software solutions in agile environments.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Java, SQL
+Web Frameworks: Django, Flask, React, Node.js, Express
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins, Git
+Tools & Technologies: REST API, GraphQL, Microservices, Agile, Scrum, JIRA
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+Tech Solutions Pvt Ltd, Bangalore
+June 2021 - Present
+- Led development of microservices architecture using Python and Django, improving system scalability by 40%
+- Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 60%
+- Mentored team of 3 junior developers and conducted code reviews
+- Collaborated with product team to design and implement new features
+
+Software Engineer
+Digital Innovations Inc, Pune
+July 2019 - May 2021  
+- Developed RESTful APIs using Django REST Framework serving 100k+ daily requests
+- Built responsive web applications using React and Redux
+- Optimized database queries resulting in 30% performance improvement
+- Worked in Agile environment with 2-week sprints
+
+Junior Software Developer
+StartUp Tech, Mumbai
+June 2018 - June 2019
+- Developed and maintained web applications using Python and Flask
+- Wrote unit tests achieving 80% code coverage
+- Participated in daily standups and sprint planning
+
+EDUCATION
+Bachelor of Technology in Computer Science
+Indian Institute of Technology, Mumbai
+2014 - 2018
+CGPA: 8.5/10
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Python for Data Science - Coursera
+- Full Stack Web Development - Udemy
+
+PROJECTS
+E-commerce Platform
+- Built scalable e-commerce platform using Django and React
+- Implemented payment gateway integration and order management
+- Handled 50k+ concurrent users
+
+Task Management System  
+- Developed real-time task management system using Node.js and Socket.io
+- Implemented user authentication and authorization
+- Created interactive dashboards using Chart.js
+
+ACHIEVEMENTS
+- Received "Best Employee of the Quarter" award twice
+- Published technical article on "Microservices with Python" in Medium
+- Speaker at local Python meetup on "Django Best Practices"
+
+PREFERRED LOCATIONS
+Bangalore, Mumbai, Pune, Hyderabad, Remote
+
+LANGUAGES
+English (Fluent), Hindi (Native)
